@@ -1,0 +1,16 @@
+{
+    "name": "ewide/phpushbullet-bundle",
+    "require": {
+        "joetannenbaum/phpushbullet": "~1.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dario",
+            "email": "dario@ewide.eu"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Ewide\\PHPushbulletBundle": "" }
+    }
+}

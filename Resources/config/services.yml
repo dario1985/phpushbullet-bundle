@@ -1,0 +1,4 @@
+services:
+    phpushbullet:
+        class: PHPushbullet\PHPushbullet
+        arguments: [%phpushbullet.access_token%]
